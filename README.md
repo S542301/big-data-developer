@@ -6,7 +6,7 @@ My hometown is Guntur, Andhra Pradesh ,India. I have done bachelor's and Master'
 ## Plans
 I would like to start interviewing to the companies which I am interested in to work with . I like to work on designing, data modeling, analysis. 
 ## Links
-[GitHub](https://github.com/S542301)
+[GitHub](https://github.com/S542301) </br>
 [LinkedIn](https://www.linkedin.com/in/swarupa-pedapalli-b4064122a/)
 
 <img src="/images/Swarupa.jpeg" width="300" height="380">
