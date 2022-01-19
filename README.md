@@ -9,3 +9,4 @@ I would like to start interviewing to the companies which I am interested in to 
 [GitHub](https://github.com/S542301)
 [LinkedIn](https://www.linkedin.com/in/swarupa-pedapalli-b4064122a/)
 
+<img src="/images/Swarupa.jpeg" width="300" height="380">
